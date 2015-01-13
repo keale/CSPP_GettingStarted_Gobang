@@ -1,0 +1,9 @@
+1. Create a class
+2. change inheritance, inherite from CS++BaseActor
+3. Define process variables for passive read/write and for active read (PVMonitor Actor)
+4. Create GUI Events
+5. Create VIs for firing events
+6. Create Msgs for this VIs
+8. For PVMonitor Events, dont use ActorFramework wizzard, instead create a class, inherit from PVUpdateMsg, override "Do.vi"
+9. Edit INI file.
+10. if you want access to actor attributes, ever from your actor:core.vi you have to send a message.
