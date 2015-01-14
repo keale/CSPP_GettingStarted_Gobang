@@ -10,7 +10,6 @@
 	</Item>
 	<Item Name="Config" Type="Folder">
 		<Item Name="CS++GoBang with SharedVars.ini" Type="Document" URL="../CS++GoBang with SharedVars.ini"/>
-		<Item Name="CS++GoBang with SharedVars_Laptop.ini" Type="Document" URL="../CS++GoBang with SharedVars_Laptop.ini"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="GoBang_RemoveStones.vi" Type="VI" URL="../SubVIs/GoBang_RemoveStones.vi"/>
